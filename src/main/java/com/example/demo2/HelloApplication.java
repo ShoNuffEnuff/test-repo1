@@ -14,6 +14,7 @@ public class HelloApplication extends Application {
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         stage.setTitle("Victory is mine!");
 =======
         stage.setTitle("Whoa Stuff!");
@@ -21,6 +22,9 @@ public class HelloApplication extends Application {
 =======
         stage.setTitle("Whoa Stuff!");
 >>>>>>> parent of 9c3e555 (Adding Files to amend project structure.)
+=======
+        stage.setTitle("New Commits!");
+>>>>>>> parent of 59593ff (Adding Files to amend project structure.)
         stage.setScene(scene);
         stage.show();
     }
