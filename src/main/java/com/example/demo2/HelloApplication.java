@@ -15,6 +15,7 @@ public class HelloApplication extends Application {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         stage.setTitle("Victory is mine!");
 =======
         stage.setTitle("Whoa Stuff!");
@@ -22,6 +23,9 @@ public class HelloApplication extends Application {
 =======
         stage.setTitle("Whoa Stuff!");
 >>>>>>> parent of 9c3e555 (Adding Files to amend project structure.)
+=======
+        stage.setTitle("New Commits!");
+>>>>>>> parent of 59593ff (Adding Files to amend project structure.)
 =======
         stage.setTitle("New Commits!");
 >>>>>>> parent of 59593ff (Adding Files to amend project structure.)
