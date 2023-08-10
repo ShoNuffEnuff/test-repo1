@@ -12,7 +12,11 @@ public class HelloApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+<<<<<<< HEAD
         stage.setTitle("Victory is mine!");
+=======
+        stage.setTitle("Whoa Stuff!");
+>>>>>>> parent of 9c3e555 (Adding Files to amend project structure.)
         stage.setScene(scene);
         stage.show();
     }
