@@ -13,7 +13,11 @@ public class HelloApplication extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
 <<<<<<< HEAD
+<<<<<<< HEAD
         stage.setTitle("Victory is mine!");
+=======
+        stage.setTitle("Whoa Stuff!");
+>>>>>>> parent of 9c3e555 (Adding Files to amend project structure.)
 =======
         stage.setTitle("Whoa Stuff!");
 >>>>>>> parent of 9c3e555 (Adding Files to amend project structure.)
